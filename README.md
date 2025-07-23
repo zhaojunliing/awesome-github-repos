@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [Swift](#swift)
 *   [Vue](#vue)
@@ -17,7 +18,6 @@
 *   [HTML](#html)
 *   [Dockerfile](#dockerfile)
 *   [Roff](#roff)
-*   [Shell](#shell)
 *   [Dart](#dart)
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -37,6 +37,36 @@
 *   [Rich Text Format](#rich-text-format)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [SCSS](#scss)
+
+## Shell
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+
+*   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
+
+*   [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL —— Pigsty
+
+*   [DBAutoTask/OracleShellInstall](https://github.com/DBAutoTask/OracleShellInstall) - Oracle一键安装脚本
+
+*   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
+
+*   [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
+
+*   [Leif160519/centos-script](https://github.com/Leif160519/centos-script) - 🎉centos下工具安装脚本，包含基础环境配置，Gitlab、Docker、LDAP、MongoDB、MySQL、RabbitMQ、Supervisor、Node、Python、zsh、rar、zabbix、k8s、prometheus、grafana等🎉
+
+*   [taoxiongfeng/learnNotes](https://github.com/taoxiongfeng/learnNotes) - 日常工作积累，用于平时工作参考资料。一、linux   1.java1.8的安装与卸载 2.tomcat8服务的安装与配置 3.mysql5.6服务的安装 4.nginx1.8.0服务的安装 5.redis与redis集群服务的安装 6.kafka服务的安装 7.keepalived服务的安装 8.Linux常用命令 9.zabbix监控系统安装步骤 10.Elasticsearch集群服务的安装 11.Keepalived+Nginx+Tomcat实现高可用Web服务(主备模式) 12.nginx及其依赖包升级步骤 13.nginx配置拦截URL特殊字符 14.使用docker部署springboot项目 15.docker安装nginx实现负载均衡.md   二、windows   1.java1.8环境的安装 2.tomcat8服务的安装与配置 3.mysql5.6服务的安装 4.redis与redis集群服务的安装 5.DBDocumentGenerator导出数据库字典的安装与使用 6.Maven的安装与配置   三、开发规范   1.开发注释规范 2.代码规范 3.MySql开发规范   四、避雷区   1.经验总结 2.文件检查   附件:学习资料   1.Java编程思想第四版完整中文高清版.pdf 2.Java企业级开发项目实践.pdf 3.Spring Boot参考指南.pdf 4.Spring实战第四版.pdf 5.锋利的jQuery第2版清晰版.pdf 6.跟我学Shiro-v1.1.pdf 7.设计模式之禅（第2版）.pdf 8.Mindmanager2016
+
+*   [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
+
+*   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
+
+*   [fit2cloud-backup/custom-monitor-scripts](https://github.com/fit2cloud-backup/custom-monitor-scripts) - 自定义监控脚本库，涵盖 Windows / Linux 平台上的各个中间件服务及系统服务
+
+*   [Biulink/ShadowsocksTutorials](https://github.com/Biulink/ShadowsocksTutorials) - Shadowsocks教程
+
+*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 
 ## Kotlin
 
@@ -274,7 +304,7 @@
 
 *   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
-*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 
@@ -1364,8 +1394,6 @@
 
 *   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 
-*   [admitted/poi](https://github.com/admitted/poi) -  Java POI 导入 导出 EXCEL
-
 ## miscellaneous
 
 *   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
@@ -1555,34 +1583,6 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-## Shell
-
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-
-*   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-
-*   [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL —— Pigsty
-
-*   [DBAutoTask/OracleShellInstall](https://github.com/DBAutoTask/OracleShellInstall) - Oracle一键安装脚本
-
-*   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
-
-*   [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
-
-*   [Leif160519/centos-script](https://github.com/Leif160519/centos-script) - 🎉centos下工具安装脚本，包含基础环境配置，Gitlab、Docker、LDAP、MongoDB、MySQL、RabbitMQ、Supervisor、Node、Python、zsh、rar、zabbix、k8s、prometheus、grafana等🎉
-
-*   [taoxiongfeng/learnNotes](https://github.com/taoxiongfeng/learnNotes) - 日常工作积累，用于平时工作参考资料。一、linux   1.java1.8的安装与卸载 2.tomcat8服务的安装与配置 3.mysql5.6服务的安装 4.nginx1.8.0服务的安装 5.redis与redis集群服务的安装 6.kafka服务的安装 7.keepalived服务的安装 8.Linux常用命令 9.zabbix监控系统安装步骤 10.Elasticsearch集群服务的安装 11.Keepalived+Nginx+Tomcat实现高可用Web服务(主备模式) 12.nginx及其依赖包升级步骤 13.nginx配置拦截URL特殊字符 14.使用docker部署springboot项目 15.docker安装nginx实现负载均衡.md   二、windows   1.java1.8环境的安装 2.tomcat8服务的安装与配置 3.mysql5.6服务的安装 4.redis与redis集群服务的安装 5.DBDocumentGenerator导出数据库字典的安装与使用 6.Maven的安装与配置   三、开发规范   1.开发注释规范 2.代码规范 3.MySql开发规范   四、避雷区   1.经验总结 2.文件检查   附件:学习资料   1.Java编程思想第四版完整中文高清版.pdf 2.Java企业级开发项目实践.pdf 3.Spring Boot参考指南.pdf 4.Spring实战第四版.pdf 5.锋利的jQuery第2版清晰版.pdf 6.跟我学Shiro-v1.1.pdf 7.设计模式之禅（第2版）.pdf 8.Mindmanager2016
-
-*   [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
-
-*   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
-
-*   [fit2cloud-backup/custom-monitor-scripts](https://github.com/fit2cloud-backup/custom-monitor-scripts) - 自定义监控脚本库，涵盖 Windows / Linux 平台上的各个中间件服务及系统服务
-
-*   [Biulink/ShadowsocksTutorials](https://github.com/Biulink/ShadowsocksTutorials) - Shadowsocks教程
-
-*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 
 ## Dart
 
