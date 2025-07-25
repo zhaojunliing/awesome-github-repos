@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [Swift](#swift)
@@ -9,8 +10,7 @@
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Python](#python)
-*   [C++](#c)
-*   [C#](#c-1)
+*   [C++](#c-1)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Java](#java)
@@ -37,6 +37,72 @@
 *   [Rich Text Format](#rich-text-format)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [SCSS](#scss)
+
+## C\#
+
+*   [kell888/BroadcastService](https://github.com/kell888/BroadcastService) - Remoting技术实现的消息广播框架（通过配置文件可以指定广播的客户端IP）
+
+*   [jindongjie/SoftwareCopyrightSourceCodeCollector](https://github.com/jindongjie/SoftwareCopyrightSourceCodeCollector) - 跨平台中国软件著作权源代码收集器 （GUI图形界面/ 软著自动收集 / 60页源码 / 自动生成 World文档）
+
+*   [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
+
+*   [fountyuan/Fountain.WinForm.AutoUpdater](https://github.com/fountyuan/Fountain.WinForm.AutoUpdater) - C# 实现在线更新
+
+*   [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
+
+*   [ravibpatel/AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) - AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.
+
+*   [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) - C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )
+
+*   [LowPlayer/CameraCapture](https://github.com/LowPlayer/CameraCapture) - 相机视频采集设备
+
+*   [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+
+*   [sharpbrowser/SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - A full featured web-browser built using C# and CefSharp
+
+*   [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
+
+*   [KaiHuaDou/EasyBrowserAdvanced](https://github.com/KaiHuaDou/EasyBrowserAdvanced) - 基于 Chromium 的极简浏览器
+
+*   [eibol/ffmpeg\_batch](https://github.com/eibol/ffmpeg_batch) - FFmpeg Batch AV Converter
+
+*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+
+*   [digao-dalpiaz/DigaoDesk](https://github.com/digao-dalpiaz/DigaoDesk) - Desktop App to Run and Monitor Console Processes
+
+*   [GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA) - C# SCADA
+
+*   [FastTunnel/FastTunnel](https://github.com/FastTunnel/FastTunnel) - expose a local server to the internet.  高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
+
+*   [oybab/TradingSystem](https://github.com/oybab/TradingSystem) - A multi-language cross-platform open source free software: Oybab Trading System.
+
+*   [malaohu/RunAsDate](https://github.com/malaohu/RunAsDate) - 类型于 RunAsDate 软件，C#实现代码
+
+*   [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
+
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+
+*   [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [SkyStonePan/ArcSoftIDCardFace\_CSharp](https://github.com/SkyStonePan/ArcSoftIDCardFace_CSharp) - 人证2.0 的 C# Demo
+
+*   [laochiangx/Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
+
+*   [1357310795/QrCodeScanner](https://github.com/1357310795/QrCodeScanner) - 通过截图或摄像头扫描二维码（支持ZXing、Zbar、OpenCV-WechatQrCode库） | Scan codes from screenshots and cameras
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+
+*   [kiba518/DevelopHelpTools](https://github.com/kiba518/DevelopHelpTools) - 开发帮助工具——比较文件工具，反编译C#dll工具，查询C++dll函数工具
+
+*   [ldqk0/Masuit.Tools](https://github.com/ldqk0/Masuit.Tools) - 该仓库为 https://github.com/ldqk/Masuit.Tools 的镜像仓库，代码更新存在较大的延迟。建议前往源仓库：https://github.com/ldqk/Masuit.Tools
+
+*   [daijinming/oraclebackup](https://github.com/daijinming/oraclebackup) - oracle自动备份工具
+
+*   [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
 
 ## Shell
 
@@ -964,70 +1030,6 @@
 
 *   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
-## C\#
-
-*   [jindongjie/SoftwareCopyrightSourceCodeCollector](https://github.com/jindongjie/SoftwareCopyrightSourceCodeCollector) - 跨平台中国软件著作权源代码收集器 （GUI图形界面/ 软著自动收集 / 60页源码 / 自动生成 World文档）
-
-*   [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
-
-*   [fountyuan/Fountain.WinForm.AutoUpdater](https://github.com/fountyuan/Fountain.WinForm.AutoUpdater) - C# 实现在线更新
-
-*   [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
-
-*   [ravibpatel/AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) - AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.
-
-*   [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) - C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )
-
-*   [LowPlayer/CameraCapture](https://github.com/LowPlayer/CameraCapture) - 相机视频采集设备
-
-*   [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
-
-*   [sharpbrowser/SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - A full featured web-browser built using C# and CefSharp
-
-*   [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
-
-*   [KaiHuaDou/EasyBrowserAdvanced](https://github.com/KaiHuaDou/EasyBrowserAdvanced) - 基于 Chromium 的极简浏览器
-
-*   [eibol/ffmpeg\_batch](https://github.com/eibol/ffmpeg_batch) - FFmpeg Batch AV Converter
-
-*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
-
-*   [digao-dalpiaz/DigaoDesk](https://github.com/digao-dalpiaz/DigaoDesk) - Desktop App to Run and Monitor Console Processes
-
-*   [GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA) - C# SCADA
-
-*   [FastTunnel/FastTunnel](https://github.com/FastTunnel/FastTunnel) - expose a local server to the internet.  高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
-
-*   [oybab/TradingSystem](https://github.com/oybab/TradingSystem) - A multi-language cross-platform open source free software: Oybab Trading System.
-
-*   [malaohu/RunAsDate](https://github.com/malaohu/RunAsDate) - 类型于 RunAsDate 软件，C#实现代码
-
-*   [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
-
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-
-*   [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [SkyStonePan/ArcSoftIDCardFace\_CSharp](https://github.com/SkyStonePan/ArcSoftIDCardFace_CSharp) - 人证2.0 的 C# Demo
-
-*   [laochiangx/Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
-
-*   [1357310795/QrCodeScanner](https://github.com/1357310795/QrCodeScanner) - 通过截图或摄像头扫描二维码（支持ZXing、Zbar、OpenCV-WechatQrCode库） | Scan codes from screenshots and cameras
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-
-*   [kiba518/DevelopHelpTools](https://github.com/kiba518/DevelopHelpTools) - 开发帮助工具——比较文件工具，反编译C#dll工具，查询C++dll函数工具
-
-*   [ldqk0/Masuit.Tools](https://github.com/ldqk0/Masuit.Tools) - 该仓库为 https://github.com/ldqk/Masuit.Tools 的镜像仓库，代码更新存在较大的延迟。建议前往源仓库：https://github.com/ldqk/Masuit.Tools
-
-*   [daijinming/oraclebackup](https://github.com/daijinming/oraclebackup) - oracle自动备份工具
-
-*   [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
-
 ## TypeScript
 
 *   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
@@ -1391,8 +1393,6 @@
 *   [apache/shiro](https://github.com/apache/shiro) - Apache Shiro
 
 *   [brianway/java-learning](https://github.com/brianway/java-learning) - 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
-
-*   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 
 ## miscellaneous
 
