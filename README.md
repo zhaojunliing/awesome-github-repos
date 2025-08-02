@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [Python](#python)
+*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [C#](#c)
 *   [Shell](#shell)
@@ -38,53 +38,9 @@
 *   [DIGITAL Command Language](#digital-command-language)
 *   [SCSS](#scss)
 
-## HTML
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-
-*   [fear-the-lord/Drowsiness-Detection](https://github.com/fear-the-lord/Drowsiness-Detection) -
-
-*   [xiaoxinpro/WolGoWeb](https://github.com/xiaoxinpro/WolGoWeb) - 基于Golang的远程唤醒WebAPI
-
-*   [iofeqkurrc42/jetbra-server-go](https://github.com/iofeqkurrc42/jetbra-server-go) -
-
-*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸、小票
-
-*   [lininn/video](https://github.com/lininn/video) - 浏览器获取视频流发送到nginx搭建的rtmp上，前端获取直播播放
-
-*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
-
-*   [openpilot-hub/devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
-
-*   [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
-
-*   [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.
-
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-*   [taoshihan1991/goflylivechat](https://github.com/taoshihan1991/goflylivechat) - 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/GOFLY LIVE CHAT: open source self-hosted private cloud customer support live chat software by golang
-
-*   [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
-
-*   [refscn/rplibs](https://github.com/refscn/rplibs) - Refs.cn 原型设计元件库，基于Axure RP 11/10/9，支持 Android、Apple、Windows、微信，移动、桌面平台的应用和网站原型设计。
-
-*   [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
-
-*   [zTree/zTree\_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
-
-*   [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-*   [tolerious/Programming\_learning\_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的一些pdf资源，欢迎赞赏
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [bopoda/ace](https://github.com/bopoda/ace) - Twitter bootstrap 3 admin template
-
 ## Python
+
+*   [eagleLiu82/diffTableTool](https://github.com/eagleLiu82/diffTableTool) - diff database table. 比对数据库中两个表的差异，支持sqlite3,mysql,postgresql,orcle,mssql
 
 *   [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 
@@ -293,6 +249,52 @@
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+
+## HTML
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
+*   [fear-the-lord/Drowsiness-Detection](https://github.com/fear-the-lord/Drowsiness-Detection) -
+
+*   [xiaoxinpro/WolGoWeb](https://github.com/xiaoxinpro/WolGoWeb) - 基于Golang的远程唤醒WebAPI
+
+*   [iofeqkurrc42/jetbra-server-go](https://github.com/iofeqkurrc42/jetbra-server-go) -
+
+*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸、小票
+
+*   [lininn/video](https://github.com/lininn/video) - 浏览器获取视频流发送到nginx搭建的rtmp上，前端获取直播播放
+
+*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+
+*   [openpilot-hub/devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
+
+*   [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
+
+*   [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.
+
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+*   [taoshihan1991/goflylivechat](https://github.com/taoshihan1991/goflylivechat) - 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/GOFLY LIVE CHAT: open source self-hosted private cloud customer support live chat software by golang
+
+*   [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
+
+*   [refscn/rplibs](https://github.com/refscn/rplibs) - Refs.cn 原型设计元件库，基于Axure RP 11/10/9，支持 Android、Apple、Windows、微信，移动、桌面平台的应用和网站原型设计。
+
+*   [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
+
+*   [zTree/zTree\_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
+
+*   [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+*   [tolerious/Programming\_learning\_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的一些pdf资源，欢迎赞赏
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [bopoda/ace](https://github.com/bopoda/ace) - Twitter bootstrap 3 admin template
 
 ## JavaScript
 
@@ -659,8 +661,6 @@
 *   [aoweichen/GoRealTimeChatWithVUE](https://github.com/aoweichen/GoRealTimeChatWithVUE) - 这是一个我用于学习go语言的仓库，该仓库包含了一个使用Go语言编写的实时聊天项目，其功能包含私聊、群聊、表情包消息（群聊不可用）、文件语音消息（暂时有点问题）等基本的IM功能。
 
 *   [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
-
-*   [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 
 *   [hraban/opus](https://github.com/hraban/opus) - Go wrapper for libopus (golang)
 
@@ -1102,6 +1102,8 @@
 
 *   [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 
+*   [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
+
 *   [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - A web-based Video Editing SDK built on WebCodecs. 基于 WebCodecs 构建的网页视频编辑 SDK。
 
 *   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
@@ -1437,8 +1439,6 @@
 *   [chanjarster/weixin-java-tools](https://github.com/chanjarster/weixin-java-tools) - 微信公众号、企业号Java SDK
 
 *   [abel533/ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
-
-*   [apache/shiro](https://github.com/apache/shiro) - Apache Shiro
 
 ## miscellaneous
 
