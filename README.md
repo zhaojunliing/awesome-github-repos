@@ -1170,7 +1170,7 @@
 
 *   [FaceAISDK/UniPlugin-FaceAISDK](https://github.com/FaceAISDK/UniPlugin-FaceAISDK) - FaceAI SDK 封装成UniPlugin
 
-*   [FaceAISDK/FaceAISDK\_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - Android on\_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
+*   [FaceAISDK/FaceAISDK\_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - 离线版设备端人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装；全程可开飞行模式不用联网 🧒 on\_device Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK
 
 *   [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey) - Survey System. 最好用的开源问卷调查系统、表单系统。
 
