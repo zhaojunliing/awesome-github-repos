@@ -740,6 +740,8 @@
 
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
+*   [nannanStrawberry314/license](https://github.com/nannanStrawberry314/license) -
+
 *   [go-well/license](https://github.com/go-well/license) - Golang 激活码方案
 
 *   [super-l/machine-code](https://github.com/super-l/machine-code) - machine-code，是忘忧草安全团队出品的一款使用GO语言实现的跨平台机器码(硬件信息)获取程序。  能获取的信息包括系统UUID、主板序列号、CPU序列号、MAC网卡信息、硬盘序列号等。主要用于设备特征识别、商业软件授权CDKEY生成等等。  同时支持windows、Linux、mac等系统！
@@ -1109,8 +1111,6 @@
 *   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 
 *   [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer) - Demux media files in the browser using WebAssembly, designed for WebCodecs 在浏览器中实现媒体文件的解封装，专为WebCodecs设计
-
-*   [nannanStrawberry314/license](https://github.com/nannanStrawberry314/license) -
 
 *   [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 👋 Gesture recognition for software control「手势识别操控程序」
 
