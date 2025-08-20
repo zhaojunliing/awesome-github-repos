@@ -40,7 +40,9 @@
 
 ## Python
 
-*   [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free) - AugmentCode无限免费续杯方案；新账号可获得600次免费的Claude Sonnet 4调用\[AugmentCode unlimited free refill plan; new accounts get 600 free Claude Sonnet 4 calls]
+*   [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+
+*   [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free) - 【8月更新】AugmentCode无限免费续杯方案\[【August Update】AugmentCode unlimited free refill plan]
 
 *   [eagleLiu82/diffTableTool](https://github.com/eagleLiu82/diffTableTool) - diff database table. 比对数据库中两个表的差异，支持sqlite3,mysql,postgresql,orcle,mssql
 
@@ -662,8 +664,6 @@
 
 *   [abel533/Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use
 
-*   [zhangkaitao/spring4-showcase](https://github.com/zhangkaitao/spring4-showcase) - （我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）
-
 ## HTML
 
 *   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
@@ -744,7 +744,7 @@
 
 *   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 
-*   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+*   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
 
 *   [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
 
