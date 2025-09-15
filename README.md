@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
 *   [JavaScript](#javascript)
+*   [Vue](#vue)
 *   [Java](#java)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -38,55 +38,9 @@
 *   [DIGITAL Command Language](#digital-command-language)
 *   [SCSS](#scss)
 
-## Vue
-
-*   [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
-
-*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
-
-*   [muleiwu/dwz-admin-webui](https://github.com/muleiwu/dwz-admin-webui) - 🚀 一个功能完善、高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。
-
-*   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
-
-*   [sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui) - SagooIOT前端工程
-
-*   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
-
-*   [itboyst/ArcSoftFaceDemoUI](https://github.com/itboyst/ArcSoftFaceDemoUI) - 人脸识别Demo前端代码
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-
-*   [duolabmeng6/GoEasyDesigner](https://github.com/duolabmeng6/GoEasyDesigner) - This is a powerful window visualization design project designed to meet the needs of multiple platforms, including Windows, macOS, and Linux.
-
-*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-
-*   [bergkamp/video-comparison-player](https://github.com/bergkamp/video-comparison-player) - 🎦 Video comparison player for Mac and Windows, built using Electron
-
-*   [SmileZXLee/uni-dingTalkHelper](https://github.com/SmileZXLee/uni-dingTalkHelper) - 钉钉定时打开测试工具
-
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
-
-*   [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software
-
-*   [pickedDeng/videoEdit](https://github.com/pickedDeng/videoEdit) - vue前端视频剪辑（视频编辑）、视频拆条，云剪辑、云拆条。demo地址
-
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-*   [calvin008/createName](https://github.com/calvin008/createName) - 基于uni-app+unicloud实现微信诗歌起名小程序-五格三才-周易起名-八字起名-宝宝起名-周易模块更新中
-
-*   [Nayacco/workflow-bpmn-modeler](https://github.com/Nayacco/workflow-bpmn-modeler) - 🔥 flowable workflow designer based on vue and bpmn.io@7.0
-
-*   [momosecurity/bombus](https://github.com/momosecurity/bombus) - 合规审计平台
-
-*   [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
-
-*   [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns是一个现代化的Java应用开发框架，基于主流技术Spring Boot3 + Vue3 + JDK17，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本。
-
 ## JavaScript
+
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
 *   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 
@@ -227,6 +181,54 @@
 *   [codingforme/jquery-photo-gallery](https://github.com/codingforme/jquery-photo-gallery) - jquery图片查看的插件，能精确查看图片详情，支持旋转、放大、缩小、拖拽、缩略图显示，界面效果按照window的qq查看图片功能写的。
 
 *   [singod/jeDate](https://github.com/singod/jeDate) - jeDate V6.5.0 是一款原生JS开发的 不依赖任何第三方库 大众化的日期控件，她身兼多职，虽不是万能的，但是她却是功能强大多样的美少女，她除了包含 单双面板、区域选择、 多语言、日历固定、有效无效日期、日期时间戳转换、日期加减、限制时分秒、初始化日期加减N、日期标注点、设定年月（YYYY-MM）、日期范围限制、开始日期设定、自定义日期格式、当天的前后若干天返回、时分秒选择、智能响应、自动纠错、节日识别，操作等常规功能外，根据不同的日期格式，显示不同内容，还拥有更多趋近完美的解决方案。更多的是需要你与她的亲密接触与呵护！
+
+## Vue
+
+*   [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
+
+*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
+
+*   [muleiwu/dwz-admin-webui](https://github.com/muleiwu/dwz-admin-webui) - 🚀 一个功能完善、高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。
+
+*   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
+
+*   [sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui) - SagooIOT前端工程
+
+*   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
+
+*   [itboyst/ArcSoftFaceDemoUI](https://github.com/itboyst/ArcSoftFaceDemoUI) - 人脸识别Demo前端代码
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+
+*   [duolabmeng6/GoEasyDesigner](https://github.com/duolabmeng6/GoEasyDesigner) - This is a powerful window visualization design project designed to meet the needs of multiple platforms, including Windows, macOS, and Linux.
+
+*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
+
+*   [bergkamp/video-comparison-player](https://github.com/bergkamp/video-comparison-player) - 🎦 Video comparison player for Mac and Windows, built using Electron
+
+*   [SmileZXLee/uni-dingTalkHelper](https://github.com/SmileZXLee/uni-dingTalkHelper) - 钉钉定时打开测试工具
+
+*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+
+*   [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software
+
+*   [pickedDeng/videoEdit](https://github.com/pickedDeng/videoEdit) - vue前端视频剪辑（视频编辑）、视频拆条，云剪辑、云拆条。demo地址
+
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+
+*   [calvin008/createName](https://github.com/calvin008/createName) - 基于uni-app+unicloud实现微信诗歌起名小程序-五格三才-周易起名-八字起名-宝宝起名-周易模块更新中
+
+*   [Nayacco/workflow-bpmn-modeler](https://github.com/Nayacco/workflow-bpmn-modeler) - 🔥 flowable workflow designer based on vue and bpmn.io@7.0
+
+*   [momosecurity/bombus](https://github.com/momosecurity/bombus) - 合规审计平台
+
+*   [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
+
+*   [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns是一个现代化的Java应用开发框架，基于主流技术Spring Boot3 + Vue3 + JDK17，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本。
 
 ## Java
 
@@ -501,8 +503,6 @@
 *   [tianshb/SpringMVC-MyBatis-Learning](https://github.com/tianshb/SpringMVC-MyBatis-Learning) - 本仓库代码是笔者在学习SpringMVC+MyBatis框架过程中完成的小Demo，学习的初衷是为了在没有JavaWeb开发基础的情况下尽快完成实验室系主页的搭建，因此本笔记旨在快速上手框架，对底层细节未进行过多探索，适合初学者入门，代码具体内容的描述可参考博客系列文章。
 
 *   [mybatis/redis-cache](https://github.com/mybatis/redis-cache) - MyBatis Redis Cache adapter
-
-*   [Exrick/xmall](https://github.com/Exrick/xmall) - 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
 
 ## Python
 
