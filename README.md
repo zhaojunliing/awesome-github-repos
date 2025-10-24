@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Go](#go)
 *   [C++](#c)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [C#](#c-1)
-*   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -35,6 +35,148 @@
 *   [Cuda](#cuda)
 *   [TSQL](#tsql)
 *   [DIGITAL Command Language](#digital-command-language)
+
+## JavaScript
+
+*   [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
+
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+
+*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+
+*   [mindskip/xzs](https://github.com/mindskip/xzs) - 在线考试系统
+
+*   [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
+
+*   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
+
+*   [zarawu/dwz-server](https://github.com/zarawu/dwz-server) - 提供一个短链接服务
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
+*   [phpk/godoos](https://github.com/phpk/godoos) - 一款高效的内网办公操作系统，内含word/excel/ppt/pdf/聊天/白板/思维导图等多个办公系统工具，支持AI创作/知识库和原生文件存储。平台界面精仿windows风格，操作简便，同时保持低资源消耗和高性能运行。无需注册即可自动连接内网用户，实现即时通讯和文件共享。灵活高配置的应用商店，可无限扩展。
+
+*   [wechatpay-apiv3/wechatpay-postman-script](https://github.com/wechatpay-apiv3/wechatpay-postman-script) - 微信支付 APIv3 的调试工具
+
+*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+
+*   [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
+
+*   [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - Auto-scrubbing of  articles and auto-likes in discourse
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
+
+*   [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
+
+*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+
+*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+
+*   [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
+
+*   [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+*   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
+
+*   [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
+
+*   [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
+
+*   [mqttsnet/thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the communication layer component, it supports plugin-based development and integration!
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
+
+*   [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Extend character support to 5,000+, lift editing limits, integrate with DeepL (Pro or API), enable formal/informal tone selection, and provide privacy‑friendly device fingerprint rotation.
+
+*   [georgehuan1994/DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in) - 钉钉全自动打卡脚本，基于auto.js，免root，适用于蓝牙考勤机
+
+*   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
+
+*   [fuce1314/Springboot\_v2](https://github.com/fuce1314/Springboot_v2) - SpringBoot\_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。
+
+*   [shufflewzc/faker3](https://github.com/shufflewzc/faker3) -
+
+*   [ccallcn/ovsyunlive](https://github.com/ccallcn/ovsyunlive) - 网页播放rtsp,Web直播rtmp推流,Web直接rtsp/rtmp无插件播放,电子游戏直播,桌面远程控制,游戏远控,视频会议,MCU/SFU视频会议,会议直播,rtsp监控,视频对讲,Ｗeb推流,flv播放器,Web桌面直播,ws流拉流转发,web无插件监控,rtsp-Web监控,网页视频会议,支持http-flv,ws-flv,直播录播,多通道流转发工具,Gb28181监控直播,Webrtc推流,Webrtc直播,Webrtc播放、远程医疗、视频安全帽、机顶盒
+
+*   [Toulu-debug/enen](https://github.com/Toulu-debug/enen) -
+
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+
+*   [zhw2590582/ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - :art: ArtPlayer.js is a modern and full featured HTML5 video player
+
+*   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
+
+*   [scjtqs2/jd\_cookie](https://github.com/scjtqs2/jd_cookie) - 京东快速提取 cookie 工具 golang版本
+
+*   [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
+
+*   [Streamedian/html5\_rtsp\_player](https://github.com/Streamedian/html5_rtsp_player) - Play RTSP stream from IP camera in browser in this HTML5 player without plugins
+
+*   [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
+
+*   [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js) - Movie focused HTML5 Player
+
+*   [Emily2281/echartsDemo](https://github.com/Emily2281/echartsDemo) - 各种easyui布局页面，内含js各种插件功能：echarts折线图、mask弹出框遮罩、downloadFile下载文件、BeAlter弹出框提示、clipboard复制
+
+*   [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
+
+*   [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser
+
+*   [rachelcao277/LabelImage](https://github.com/rachelcao277/LabelImage) - 一款在线图像标注工具（矩形、多边形、持续更新中……），可用于深度学习实例分割模型训练（Mask R-CNN）等。
+
+*   [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
+
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+
+*   [goldvideo/h265player](https://github.com/goldvideo/h265player) - 一套完整的Web版H.265播放器解决方案，非常适合学习交流和实际应用。基于JS码流解封装、WebAssembly(FFmpeg)视频解码，利用Canvas画布投影、AudioContext播放音频。
+
+*   [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
+
+*   [guozhaolong/wfd-vue](https://github.com/guozhaolong/wfd-vue) - flowable workflow designer for Vue base on @antv/g6
+
+*   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
+
+*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+
+*   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
+
+*   [baukh789/GridManager](https://github.com/baukh789/GridManager) - 🌐 快速、灵活的对Table标签进行实例化，让Table标签充满活力。
+
+*   [ysc/APDPlat](https://github.com/ysc/APDPlat) - APDPlat是Application Product Development Platform的缩写，即应用级产品开发平台。
+
+*   [ffay/proxygateway](https://github.com/ffay/proxygateway) - Proxy Gateway基于openresty（nginx lua module）开发，可以作为接口网关（api gateway）使用，整合业务模块接口，微服务治理聚合，通过web配置界面，能够轻松进行代理配置管理，支持负载均衡，服务器状态检测等
+
+*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+
+*   [o2oa/o2oa](https://github.com/o2oa/o2oa) - 开源OA系统 - 码云GVP|Java开源oa|企业OA办公平台|企业OA|协同办公OA|流程平台OA|O2OA|OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA
+
+*   [layui/laydate](https://github.com/layui/laydate) - 一款被广泛使用的高级 Web 日历组件，完全开源无偿且颜值与功能兼备，足以应对日期相关的各种业务场景
+
+*   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
+
+*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+
+*   [Devon3818/57mh](https://github.com/Devon3818/57mh) - ionic3.3.0-example 「57漫画」📖 🈵️ 一款能看<惊爆游戏><零度战姬><进击的巨人><东京食尸鬼re >......de漫画app
+
+*   [hs-web/hsweb3-demo](https://github.com/hs-web/hsweb3-demo) - hsweb 3.0版本演示,ui基于miniui,集成hsweb全家桶的web端演示,集成代码生成器
+
+*   [dyq086/wepy-mall](https://github.com/dyq086/wepy-mall) - 微信小程序--基于wepy 商城(微店)微信小程序 欢迎学习交流
+
+*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+
+*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+
+*   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 
 ## Python
 
@@ -1006,8 +1148,6 @@
 
 *   [nnngu/nguSeckill](https://github.com/nnngu/nguSeckill) - ✨ 整合IDEA+Maven+SSM框架的高并发的商品秒杀项目
 
-*   [renrenio/renren-security](https://github.com/renrenio/renren-security) - 采用Spring、MyBatis、Shiro框架，开发的一套权限系统，极低门槛，拿来即用。设计之初，就非常注重安全性，为企业系统保驾护航，让一切都变得如此简单。【QQ群：324780204、145799952】
-
 ## Kotlin
 
 *   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
@@ -1095,146 +1235,6 @@
 *   [daijinming/oraclebackup](https://github.com/daijinming/oraclebackup) - oracle自动备份工具
 
 *   [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
-
-## JavaScript
-
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-
-*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-
-*   [mindskip/xzs](https://github.com/mindskip/xzs) - 在线考试系统
-
-*   [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
-
-*   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
-
-*   [zarawu/dwz-server](https://github.com/zarawu/dwz-server) - 提供一个短链接服务
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
-*   [phpk/godoos](https://github.com/phpk/godoos) - 一款高效的内网办公操作系统，内含word/excel/ppt/pdf/聊天/白板/思维导图等多个办公系统工具，支持AI创作/知识库和原生文件存储。平台界面精仿windows风格，操作简便，同时保持低资源消耗和高性能运行。无需注册即可自动连接内网用户，实现即时通讯和文件共享。灵活高配置的应用商店，可无限扩展。
-
-*   [wechatpay-apiv3/wechatpay-postman-script](https://github.com/wechatpay-apiv3/wechatpay-postman-script) - 微信支付 APIv3 的调试工具
-
-*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-
-*   [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
-
-*   [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - Auto-scrubbing of  articles and auto-likes in discourse
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-
-*   [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
-
-*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-
-*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
-
-*   [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
-
-*   [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-
-*   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
-
-*   [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
-
-*   [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
-
-*   [mqttsnet/thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the communication layer component, it supports plugin-based development and integration!
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-
-*   [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Bypass 5,000 characters, Remove edit restriction, Use DeepL Pro Account Cookies/DeepL Api Free Token to translate, Unlock Formal/informal tone, Randomize fingerprint
-
-*   [georgehuan1994/DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in) - 钉钉全自动打卡脚本，基于auto.js，免root，适用于蓝牙考勤机
-
-*   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
-
-*   [fuce1314/Springboot\_v2](https://github.com/fuce1314/Springboot_v2) - SpringBoot\_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。
-
-*   [shufflewzc/faker3](https://github.com/shufflewzc/faker3) -
-
-*   [ccallcn/ovsyunlive](https://github.com/ccallcn/ovsyunlive) - 网页播放rtsp,Web直播rtmp推流,Web直接rtsp/rtmp无插件播放,电子游戏直播,桌面远程控制,游戏远控,视频会议,MCU/SFU视频会议,会议直播,rtsp监控,视频对讲,Ｗeb推流,flv播放器,Web桌面直播,ws流拉流转发,web无插件监控,rtsp-Web监控,网页视频会议,支持http-flv,ws-flv,直播录播,多通道流转发工具,Gb28181监控直播,Webrtc推流,Webrtc直播,Webrtc播放、远程医疗、视频安全帽、机顶盒
-
-*   [Toulu-debug/enen](https://github.com/Toulu-debug/enen) -
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-
-*   [zhw2590582/ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - :art: ArtPlayer.js is a modern and full featured HTML5 video player
-
-*   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
-
-*   [scjtqs2/jd\_cookie](https://github.com/scjtqs2/jd_cookie) - 京东快速提取 cookie 工具 golang版本
-
-*   [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
-
-*   [Streamedian/html5\_rtsp\_player](https://github.com/Streamedian/html5_rtsp_player) - Play RTSP stream from IP camera in browser in this HTML5 player without plugins
-
-*   [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
-
-*   [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js) - Movie focused HTML5 Player
-
-*   [Emily2281/echartsDemo](https://github.com/Emily2281/echartsDemo) - 各种easyui布局页面，内含js各种插件功能：echarts折线图、mask弹出框遮罩、downloadFile下载文件、BeAlter弹出框提示、clipboard复制
-
-*   [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
-
-*   [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser
-
-*   [rachelcao277/LabelImage](https://github.com/rachelcao277/LabelImage) - 一款在线图像标注工具（矩形、多边形、持续更新中……），可用于深度学习实例分割模型训练（Mask R-CNN）等。
-
-*   [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
-
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-
-*   [goldvideo/h265player](https://github.com/goldvideo/h265player) - 一套完整的Web版H.265播放器解决方案，非常适合学习交流和实际应用。基于JS码流解封装、WebAssembly(FFmpeg)视频解码，利用Canvas画布投影、AudioContext播放音频。
-
-*   [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
-
-*   [guozhaolong/wfd-vue](https://github.com/guozhaolong/wfd-vue) - flowable workflow designer for Vue base on @antv/g6
-
-*   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
-
-*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-
-*   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
-
-*   [baukh789/GridManager](https://github.com/baukh789/GridManager) - 🌐 快速、灵活的对Table标签进行实例化，让Table标签充满活力。
-
-*   [ysc/APDPlat](https://github.com/ysc/APDPlat) - APDPlat是Application Product Development Platform的缩写，即应用级产品开发平台。
-
-*   [ffay/proxygateway](https://github.com/ffay/proxygateway) - Proxy Gateway基于openresty（nginx lua module）开发，可以作为接口网关（api gateway）使用，整合业务模块接口，微服务治理聚合，通过web配置界面，能够轻松进行代理配置管理，支持负载均衡，服务器状态检测等
-
-*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-
-*   [o2oa/o2oa](https://github.com/o2oa/o2oa) - 开源OA系统 - 码云GVP|Java开源oa|企业OA办公平台|企业OA|协同办公OA|流程平台OA|O2OA|OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA
-
-*   [layui/laydate](https://github.com/layui/laydate) - 一款被广泛使用的高级 Web 日历组件，完全开源无偿且颜值与功能兼备，足以应对日期相关的各种业务场景
-
-*   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
-
-*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-
-*   [Devon3818/57mh](https://github.com/Devon3818/57mh) - ionic3.3.0-example 「57漫画」📖 🈵️ 一款能看<惊爆游戏><零度战姬><进击的巨人><东京食尸鬼re >......de漫画app
-
-*   [hs-web/hsweb3-demo](https://github.com/hs-web/hsweb3-demo) - hsweb 3.0版本演示,ui基于miniui,集成hsweb全家桶的web端演示,集成代码生成器
-
-*   [dyq086/wepy-mall](https://github.com/dyq086/wepy-mall) - 微信小程序--基于wepy 商城(微店)微信小程序 欢迎学习交流
-
-*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-
-*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
-
-*   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 
 ## Vue
 
