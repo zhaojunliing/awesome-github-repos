@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
+*   [Dockerfile](#dockerfile)
+*   [Vue](#vue)
 *   [Java](#java)
 *   [Go](#go)
 *   [Python](#python)
-*   [Vue](#vue)
-*   [Dockerfile](#dockerfile)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [C++](#c)
@@ -36,6 +36,70 @@
 *   [Cuda](#cuda)
 *   [TSQL](#tsql)
 *   [DIGITAL Command Language](#digital-command-language)
+
+## Dockerfile
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+
+*   [googleweb/docker-jetbrains-license-server](https://github.com/googleweb/docker-jetbrains-license-server) - JetBrains License Server Docker image
+
+*   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
+
+*   [ecliptik/dockerfiles](https://github.com/ecliptik/dockerfiles) - Repo of Dockerfiles
+
+*   [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
+
+*   [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
+
+## Vue
+
+*   [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+
+*   [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。
+
+*   [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
+
+*   [muleiwu/dwz-admin-webui](https://github.com/muleiwu/dwz-admin-webui) - 🚀 一个功能完善、高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。
+
+*   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
+
+*   [sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui) - SagooIOT前端工程
+
+*   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
+
+*   [itboyst/ArcSoftFaceDemoUI](https://github.com/itboyst/ArcSoftFaceDemoUI) - 人脸识别Demo前端代码
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+
+*   [duolabmeng6/GoEasyDesigner](https://github.com/duolabmeng6/GoEasyDesigner) - This is a powerful window visualization design project designed to meet the needs of multiple platforms, including Windows, macOS, and Linux.
+
+*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
+
+*   [bergkamp/video-comparison-player](https://github.com/bergkamp/video-comparison-player) - 🎦 Video comparison player for Mac and Windows, built using Electron
+
+*   [SmileZXLee/uni-dingTalkHelper](https://github.com/SmileZXLee/uni-dingTalkHelper) - 钉钉定时打开测试工具
+
+*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+
+*   [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software
+
+*   [pickedDeng/videoEdit](https://github.com/pickedDeng/videoEdit) - vue前端视频剪辑（视频编辑）、视频拆条，云剪辑、云拆条。demo地址
+
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+
+*   [calvin008/createName](https://github.com/calvin008/createName) - 基于uni-app+unicloud实现微信诗歌起名小程序-五格三才-周易起名-八字起名-宝宝起名-周易模块更新中
+
+*   [Nayacco/workflow-bpmn-modeler](https://github.com/Nayacco/workflow-bpmn-modeler) - 🔥 flowable workflow designer based on vue and bpmn.io@7.0
+
+*   [momosecurity/bombus](https://github.com/momosecurity/bombus) - 合规审计平台
+
+*   [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
+
+*   [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns是一个现代化的Java应用开发框架，基于主流技术Spring Boot3 + Vue3 + JDK17，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本。
 
 ## Java
 
@@ -292,8 +356,6 @@
 *   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 
 *   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-
-*   [swaldman/c3p0](https://github.com/swaldman/c3p0) - a mature, highly concurrent JDBC Connection pooling library, with support for caching and reuse of PreparedStatements.
 
 ## Go
 
@@ -969,66 +1031,6 @@
 
 *   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
-## Vue
-
-*   [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。
-
-*   [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
-
-*   [muleiwu/dwz-admin-webui](https://github.com/muleiwu/dwz-admin-webui) - 🚀 一个功能完善、高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。
-
-*   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
-
-*   [sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui) - SagooIOT前端工程
-
-*   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
-
-*   [itboyst/ArcSoftFaceDemoUI](https://github.com/itboyst/ArcSoftFaceDemoUI) - 人脸识别Demo前端代码
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-
-*   [duolabmeng6/GoEasyDesigner](https://github.com/duolabmeng6/GoEasyDesigner) - This is a powerful window visualization design project designed to meet the needs of multiple platforms, including Windows, macOS, and Linux.
-
-*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-
-*   [bergkamp/video-comparison-player](https://github.com/bergkamp/video-comparison-player) - 🎦 Video comparison player for Mac and Windows, built using Electron
-
-*   [SmileZXLee/uni-dingTalkHelper](https://github.com/SmileZXLee/uni-dingTalkHelper) - 钉钉定时打开测试工具
-
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
-
-*   [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software
-
-*   [pickedDeng/videoEdit](https://github.com/pickedDeng/videoEdit) - vue前端视频剪辑（视频编辑）、视频拆条，云剪辑、云拆条。demo地址
-
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-*   [calvin008/createName](https://github.com/calvin008/createName) - 基于uni-app+unicloud实现微信诗歌起名小程序-五格三才-周易起名-八字起名-宝宝起名-周易模块更新中
-
-*   [Nayacco/workflow-bpmn-modeler](https://github.com/Nayacco/workflow-bpmn-modeler) - 🔥 flowable workflow designer based on vue and bpmn.io@7.0
-
-*   [momosecurity/bombus](https://github.com/momosecurity/bombus) - 合规审计平台
-
-*   [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
-
-*   [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns是一个现代化的Java应用开发框架，基于主流技术Spring Boot3 + Vue3 + JDK17，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本。
-
-## Dockerfile
-
-*   [googleweb/docker-jetbrains-license-server](https://github.com/googleweb/docker-jetbrains-license-server) - JetBrains License Server Docker image
-
-*   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
-
-*   [ecliptik/dockerfiles](https://github.com/ecliptik/dockerfiles) - Repo of Dockerfiles
-
-*   [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
-
-*   [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
-
 ## JavaScript
 
 *   [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
@@ -1264,8 +1266,6 @@
 *   [Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin) - A IntelliJ plugin that can explore archive-based file in project view
 
 *   [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) - jclasslib bytecode editor is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
-
-*   [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
 
 ## C\#
 
