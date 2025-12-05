@@ -377,8 +377,6 @@
 
 *   [Smith-Cruise/Spring-Boot-Shiro](https://github.com/Smith-Cruise/Spring-Boot-Shiro) - Shiro基于SpringBoot +JWT搭建简单的restful服务
 
-*   [wujun728/jun\_java\_plugin](https://github.com/wujun728/jun_java_plugin) - jun\_java\_plugin 整合Java企业级各种开发组件、开箱即用、不写重复代码；目前已集成java\_plugin50多个，spring\_plugin组件100+，spring\_boot组件100+，各种项目模板，涵盖开发各种场景如minio、七牛云、云短信、设计模式、多数据源、分布式Session、分布式事务、分布式锁、消息队列、并发框架、模板引擎、规则引擎、上传下载、二维码、缓存、任务调度、单点登录、爬虫、二维码、JWT、Mybatisplus、JPA、flyway、jasypt、kafka、netty、websocket、task、redis、dubbo、sms、job等等
-
 *   [chengxy-nds/Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook) - Springboot-Notebook 一个以 springboot 为基础开发框架， 整合 Redis 、Mysql 、 Rabbitmq 、ES 、MongoDB、sharding-jdbc 分库分表、zookeeper 、web人脸识别 、实时消息推送 、SQL优化、注册中心 、数据脱敏 等互联网主流技术， 文章图解理论配合实战案例，实现开发中常见功能点的综合项目。 本着拿来即用的原则，助力于减少开发者在工作中的学习成本。
 
 *   [luxiaoxun/NettyRpc](https://github.com/luxiaoxun/NettyRpc) - A simple RPC framework based on Netty, ZooKeeper and Spring
@@ -1118,6 +1116,8 @@
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 *   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+*   [wujun728/jun\_java\_plugin](https://github.com/wujun728/jun_java_plugin) - jun\_java\_plugin 整合Java企业级各种开发组件、开箱即用、不写重复代码；目前已集成java\_plugin50多个，spring\_plugin组件100+，spring\_boot组件100+，各种项目模板，涵盖开发各种场景如minio、七牛云、云短信、设计模式、多数据源、分布式Session、分布式事务、分布式锁、消息队列、并发框架、模板引擎、规则引擎、上传下载、二维码、缓存、任务调度、单点登录、爬虫、二维码、JWT、Mybatisplus、JPA、flyway、jasypt、kafka、netty、websocket、task、redis、dubbo、sms、job等等
 
 *   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
 
