@@ -1533,7 +1533,7 @@
 
 *   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 
-*   [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL — Pigsty
+*   [pgsty/pigsty](https://github.com/pgsty/pigsty) - FLOSS PostgreSQL RDS / DBaaS
 
 *   [DBAutoTask/OracleShellInstall](https://github.com/DBAutoTask/OracleShellInstall) - Oracle一键安装脚本
 
