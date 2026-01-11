@@ -304,7 +304,7 @@
 
 *   [Javen205/IJPay](https://github.com/Javen205/IJPay) - IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨
 
-*   [FaceAISDK/FaceSearch\_uniapp\_plugin](https://github.com/FaceAISDK/FaceSearch_uniapp_plugin) - uniApp 可以使用的人脸识别，活体检测。包含 Android原生工程以及对应的插件工程
+*   [FaceAISDK/FaceSearch\_uniapp\_plugin](https://github.com/FaceAISDK/FaceSearch_uniapp_plugin) - 1:N 人脸搜索识别UTS API插件uniapp和uniapp x 都可以用，可以完全离线运行
 
 *   [FaceAISDK/FaceAISDK\_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - 离线版设备端人脸识别 动作活体、炫彩活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装；全程可开飞行模式不用联网 🧒 on\_device Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK
 
@@ -567,8 +567,6 @@
 *   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
 *   [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
-
-*   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
@@ -1389,6 +1387,8 @@
 *   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 
 *   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+
+*   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) -
 
 *   [zhaojunliing/awesome-stars](https://github.com/zhaojunliing/awesome-stars) -
 
