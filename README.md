@@ -688,7 +688,7 @@
 
 *   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 
-*   [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
+*   [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports multimodal content via embedding
 
 *   [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang
 
