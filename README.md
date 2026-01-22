@@ -149,7 +149,7 @@
 
 *   [suifengqjn/videoWater](https://github.com/suifengqjn/videoWater) - 视频批量处理, 码率设置, 格式转换, 添加字幕, 添加水印, 文字跑马灯, 去除水印, 修改分辨率, 视频剪裁, 倍速播放, 视频分段, 视频合成, 视频镜像, 背景音乐, 插入背景图片, 视频高斯模糊, 模糊拓边, 画中画,字幕,翻译,影视解说,影视混剪,抖音带货,视频全自动剪辑,视频批量剪辑
 
-*   [williamsjokvist/cfn-tracker](https://github.com/williamsjokvist/cfn-tracker) - Realtime tracking of ranked matches in Street Fighter 6 and Tekken 8
+*   [williamsjokvist/cfn-tracker](https://github.com/williamsjokvist/cfn-tracker) - Realtime tracking of ranked matches in Street Fighter 6 and Tekken 8                                   https://deepwiki.com/williamsjokvist/cfn-tracker
 
 *   [jlaffaye/ftp](https://github.com/jlaffaye/ftp) - FTP client package for Go
 
