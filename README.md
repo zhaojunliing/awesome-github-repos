@@ -88,7 +88,7 @@
 
 *   [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 *   [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
 
