@@ -39,6 +39,8 @@
 
 ## Python
 
+*   [zhinianboke-new/xianyu-auto-reply](https://github.com/zhinianboke-new/xianyu-auto-reply) - (作者版本)闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
+
 *   [HJYHJYHJY/xianyu-auto-reply](https://github.com/HJYHJYHJY/xianyu-auto-reply) - 一个功能完整的闲鱼自动回复和管理系统，支持多用户、多账号管理，具备智能回复、自动发货、自动确认发货、商品管理等企业级功能。
 
 *   [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
@@ -740,8 +742,6 @@
 *   [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 
 *   [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-
-*   [clangcn/ngrok-one-key-install](https://github.com/clangcn/ngrok-one-key-install) - ngrok one key install shell(http://soft.clang.cn/ngrok/install\_ngrok.sh)
 
 ## PLpgSQL
 
