@@ -39,6 +39,8 @@
 
 ## Python
 
+*   [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
+
 *   [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 *   [fivif/Sam3-AN](https://github.com/fivif/Sam3-AN) - 基于Meta sam3模型的数据标注工具
@@ -1312,8 +1314,6 @@
 *   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 
 *   [think-gem/SUI-Mobile](https://github.com/think-gem/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
-
-*   [pc859107393/SpringMvcMybatis](https://github.com/pc859107393/SpringMvcMybatis) - SpringMvcMybatis项目框架整合,加入bruid数据库连接池.
 
 ## PLpgSQL
 
