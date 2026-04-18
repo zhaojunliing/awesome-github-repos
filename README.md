@@ -65,8 +65,6 @@
 
 *   [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 
-*   [zaunist/xugou](https://github.com/zaunist/xugou) - XUGOU-基于CloudFlare的轻量化监控平台
-
 *   [voideditor/void](https://github.com/voideditor/void) -
 
 *   [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
@@ -1350,6 +1348,8 @@
 *   [admitted/MyBatis-3.4.2](https://github.com/admitted/MyBatis-3.4.2) - MyBatis-3.4.2 源码-中文注释与详解
 
 *   [mybatis/generator](https://github.com/mybatis/generator) - A code generator for MyBatis.
+
+*   [zhanglei-workspace/shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) - 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
 
 ## JavaScript
 
