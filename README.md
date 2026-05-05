@@ -1053,7 +1053,7 @@
 
 *   [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
 
-*   [Akarin-Akari/go-mall](https://github.com/Akarin-Akari/go-mall) -
+*   [Akarin-Akari/go-mall](https://github.com/Akarin-Akari/go-mall) - 一个自用的学习用golang商城系统
 
 *   [derror-ai/goworkflow](https://github.com/derror-ai/goworkflow) -
 
