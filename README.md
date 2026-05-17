@@ -43,7 +43,7 @@
 
 *   [isboyjc/GoProxy](https://github.com/isboyjc/GoProxy) - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。
 
-*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
+*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
 
 *   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
@@ -70,6 +70,8 @@
 *   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 
 *   [vibe-coding-labs/JG-Cursor-cracker](https://github.com/vibe-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
+
+*   [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 
 *   [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - 🚀 功能完善、轻量且高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。支持SQLite、MySQL、PostgreSQL、Redis
 
@@ -941,8 +943,6 @@
 
 *   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 
-*   [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
-
 *   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
 
 *   [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - A Canvas/SVG-based rich text editor
@@ -1363,7 +1363,7 @@
 
 *   [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
-*   [tolerious/Programming\_learning\_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的资源
+*   [tolerious/Programming\_learning\_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的电子书
 
 *   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
