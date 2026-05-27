@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [Go](#go)
 *   [Java](#java)
@@ -37,27 +37,9 @@
 *   [DIGITAL Command Language](#digital-command-language)
 *   [SCSS](#scss)
 
-## Jupyter Notebook
-
-*   [jerpelhan/GECO2](https://github.com/jerpelhan/GECO2) - Official implementation of GeCo2 (AAAI 2026) -- Generalized-Scale Object Counting with Gradual Query Aggregation
-
-*   [akshaybahadur21/Drowsiness\_Detection](https://github.com/akshaybahadur21/Drowsiness_Detection) - A simple Drowsiness Detection module for humans. 😴 🚫 🚗
-
-*   [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT
-
-*   [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
-
-*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-
-*   [AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
-
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-*   [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
 ## JavaScript
+
+*   [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) -
 
 *   [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API) -
 
@@ -210,6 +192,26 @@
 *   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 
 *   [think-gem/SUI-Mobile](https://github.com/think-gem/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
+
+## Jupyter Notebook
+
+*   [jerpelhan/GECO2](https://github.com/jerpelhan/GECO2) - Official implementation of GeCo2 (AAAI 2026) -- Generalized-Scale Object Counting with Gradual Query Aggregation
+
+*   [akshaybahadur21/Drowsiness\_Detection](https://github.com/akshaybahadur21/Drowsiness_Detection) - A simple Drowsiness Detection module for humans. 😴 🚫 🚗
+
+*   [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT
+
+*   [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
+
+*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+
+*   [AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
+
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+*   [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 ## Python
 
@@ -1388,8 +1390,6 @@
 *   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
 *   [bopoda/ace](https://github.com/bopoda/ace) - Twitter bootstrap 3 admin template
-
-*   [admitted/datatables-cn](https://github.com/admitted/datatables-cn) - Datatables—— jquery 插件中文网
 
 ## Vue
 
