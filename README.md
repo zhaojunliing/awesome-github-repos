@@ -1255,6 +1255,8 @@
 
 *   [brianway/java-learning](https://github.com/brianway/java-learning) - 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
 
+*   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
+
 ## TypeScript
 
 *   [axdlee/activation-manager](https://github.com/axdlee/activation-manager) - 一个软件激活码授权管理系统用于快速构建软件付费服务支持
@@ -1541,8 +1543,6 @@
 
 *   [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 
-*   [appemit/appemit](https://github.com/appemit/appemit) - AppEmit is an extensible lightweight middleware for communication between applications (especially chrome browser) and local programs,support Chrome to call DLL,Ocx,RTSP Player,Flash,Swf. you call dll from chrome browser . AppEmit是应用程序（尤其是chrome谷歌浏览器）与本地程序间互相通信的易扩展的轻量级中间件，支持chrome调用DLL,Ocx,rtsp,flash,swf,cad,pdf3D
-
 *   [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 
 *   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
@@ -1781,7 +1781,7 @@
 
 *   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
 
-*   [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
+*   [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 
 *   [DBAutoTask/OracleShellInstall](https://github.com/DBAutoTask/OracleShellInstall) - Oracle一键安装脚本
 
